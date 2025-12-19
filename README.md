@@ -38,13 +38,13 @@ PluginReaper is an automated WordPress security scanner that:
 
 ## ✨ Features
 
-- 🔍 **GHDB Integration** - Automatically builds vulnerability database from Exploit-DB
-- 🎯 **Live Site Scanning** - Enumerates actual plugins on target WordPress sites
-- 🔄 **Smart Cross-Referencing** - Matches installed plugins against vulnerability data
-- 📊 **Risk Classification** - Three-tier risk system (HIGH/MEDIUM/LOW)
-- 📝 **Comprehensive Reports** - JSON and Markdown formats
-- 🚀 **No API Limits** - Uses WPScan CLI, no rate limiting
-- 🎨 **Clean Output** - Suppresses WPScan banner for cleaner results
+- **GHDB Integration** - Automatically builds vulnerability database from Exploit-DB
+- **Live Site Scanning** - Enumerates actual plugins on target WordPress sites
+- **Smart Cross-Referencing** - Matches installed plugins against vulnerability data
+- **Risk Classification** - Three-tier risk system (HIGH/MEDIUM/LOW)
+- **Comprehensive Reports** - JSON and Markdown formats
+- **No API Limits** - Uses WPScan CLI, no rate limiting
+- **Clean Output** - Suppresses WPScan banner for cleaner results
 
 ## 🔧 Installation
 
@@ -311,14 +311,14 @@ wpscan --version
 ## 🔒 Security Best Practices
 
 After using PluginReaper:
-1. ✅ Update all outdated plugins immediately
-2. ✅ Remove unused or abandoned plugins
-3. ✅ Enable automatic updates where possible
-4. ✅ Implement Web Application Firewall (WAF)
-5. ✅ Monitor security advisories regularly
-6. ✅ Schedule regular scans (weekly/monthly)
-7. ✅ Keep WordPress core updated
-8. ✅ Use security hardening plugins
+1. Update all outdated plugins immediately
+2. Remove unused or abandoned plugins
+3. Enable automatic updates where possible
+4. Implement Web Application Firewall (WAF)
+5. Monitor security advisories regularly
+6. Schedule regular scans (weekly/monthly)
+7. Keep WordPress core updated
+8. Use security hardening plugins
 
 ## 🤝 Contributing
 
