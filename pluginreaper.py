@@ -39,7 +39,7 @@ BANNER = """
 """
 
 VERSION = "1.0"
-AUTHOR = "Security Research Tool"
+AUTHOR = "Secfortress"
 
 class ExploitDBAPI:
     """
